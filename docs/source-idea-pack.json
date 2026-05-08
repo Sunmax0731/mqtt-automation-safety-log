@@ -1,0 +1,38 @@
+{
+  "product": "mqtt-automation-safety-log",
+  "sourceRank": {
+    "rank": 55,
+    "tier": "P2",
+    "score": 54,
+    "domain": "IoT",
+    "ideaNo": 6,
+    "ideaName": "自動化ルール・MQTT・安全運用ログ",
+    "repositoryName": "mqtt-automation-safety-log",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "自動化安全ログは有用だが、危険操作と権限管理の検証が重い。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_006_mqtt-automation-safety-log",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_006_mqtt-automation-safety-log\\idea_006_mqtt-automation-safety-log.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "mqtt-automation-safety-log",
+  "metadataIdea": "自動化ルール・MQTT・安全運用ログ",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
