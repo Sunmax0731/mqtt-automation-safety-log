@@ -1,0 +1,11 @@
+{
+  "product": "mqtt-automation-safety-log",
+  "title": "自動化ルール・MQTT・安全運用ログ",
+  "domain": "IoT",
+  "ideaNo": 6,
+  "platformType": "iot-simulator-mock",
+  "expectedPublicTarget": "GitHub Release / 自宅LAN",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
